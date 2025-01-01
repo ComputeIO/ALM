@@ -1,4 +1,4 @@
-# Workspace
+# ALM
 
 [![Build Status](https://github.com/ComputeIO/alm/actions/workflows/go.yml/badge.svg)](https://github.com/ComputeIO/alm/actions/workflows/go.yml)
 [![LICENSE](https://img.shields.io/github/license/horsing/coder.svg)](https://github.com/ComputeIO/alm/blob/master/LICENSE)
@@ -13,9 +13,7 @@
 
 ## Overview
 
-Workspace is an open-source command line tool, which can read input and separate into multiple subtasks to accelerate
-Coder is an open-source command line tool, which can read input and separate into Coder subtasks to accelerate
-large scale jobs' execution.
+ALM, Application Lifecycle Management, is designed for application releases, deployment management. ALM will be able to support major CI/CD infrastructure, such as GitLab, Jenkins, Nexus, Harbor, etc.
 
 ## Usage
 
